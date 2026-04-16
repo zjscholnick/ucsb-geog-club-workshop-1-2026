@@ -1,0 +1,10 @@
+Planet,Radius (km),Moons,Type
+Mercury,2439,0,Terrestrial
+Venus,6051,0,Terrestrial
+Earth,6371,1,Terrestrial
+Mars,3389,2,Terrestrial
+Jupiter,69911,95,Gas Giant
+Saturn,58232,146,Gas Giant
+Uranus,25362,27,Ice Giant
+Neptune,24622,14,Ice Giant
+Pluto,1188,5,Dwarf Planet
